@@ -1,0 +1,14 @@
+.\objects\main.o: ..\Appl\main.c
+.\objects\main.o: ..\Appl\main.h
+.\objects\main.o: ..\Common\Std_Types.h
+.\objects\main.o: ..\Common\Platform_Types.h
+.\objects\main.o: ..\Common\Compiler.h
+.\objects\main.o: ..\Common\Mcu_Hw.h
+.\objects\main.o: ..\Hal\Inc\SW_PWM_Types.h
+.\objects\main.o: ..\Hal\Inc\SW_PWM.h
+.\objects\main.o: ..\Mcal\Inc\GPT_Types.h
+.\objects\main.o: ..\Mcal\Inc\GPT.h
+.\objects\main.o: ..\Config\Inc\GPT_Cfg.h
+.\objects\main.o: ..\Mcal\Inc\Dio_Types.h
+.\objects\main.o: ..\Mcal\Inc\Dio.h
+.\objects\main.o: ..\Config\Inc\Dio_Cfg.h

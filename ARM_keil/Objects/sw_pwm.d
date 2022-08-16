@@ -1,0 +1,13 @@
+.\objects\sw_pwm.o: ..\Hal\Scr\SW_PWM.c
+.\objects\sw_pwm.o: ..\Common\Std_Types.h
+.\objects\sw_pwm.o: ..\Common\Platform_Types.h
+.\objects\sw_pwm.o: ..\Common\Compiler.h
+.\objects\sw_pwm.o: ..\Common\MCU_HW.h
+.\objects\sw_pwm.o: ..\Hal\Inc\SW_PWM_Types.h
+.\objects\sw_pwm.o: ..\Hal\Inc\SW_PWM.h
+.\objects\sw_pwm.o: ..\Mcal\Inc\GPT_Types.h
+.\objects\sw_pwm.o: ..\Mcal\Inc\GPT.h
+.\objects\sw_pwm.o: ..\Config\Inc\GPT_Cfg.h
+.\objects\sw_pwm.o: ..\Mcal\Inc\Dio_Types.h
+.\objects\sw_pwm.o: ..\Mcal\Inc\Dio.h
+.\objects\sw_pwm.o: ..\Config\Inc\Dio_Cfg.h
